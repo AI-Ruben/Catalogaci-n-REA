@@ -1,0 +1,5 @@
+{
+  "name": "REA Tagging Simulator",
+  "description": "An advanced React application that simulates the detailed process of tagging Open Educational Resources (OER) based on the comprehensive ikasNOVA cataloging scheme. Users can fill out a multi-category form with details like content description, curricular references (LOMLOE), and didactic proposals to generate and export metadata as a CSV file.",
+  "requestFramePermissions": []
+}
